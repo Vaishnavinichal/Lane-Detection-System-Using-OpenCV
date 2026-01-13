@@ -1,0 +1,35 @@
+[2025-12-12 16:36:14] DEBUG: script started
+[2025-12-12 16:36:14] Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+[2025-12-12 16:36:14] CWD: E:\HARSHAL\VAISHNAVI NICHAL\ML\Lane detection
+[2025-12-12 16:36:14] Script path: e:\HARSHAL\VAISHNAVI NICHAL\ML\Lane detection\laneDetection.py
+[2025-12-12 16:36:14] Listing files in CWD (12 items).
+[2025-12-12 16:36:14]  - .venv (0 bytes)
+[2025-12-12 16:36:14]  - debug_log.txt (428 bytes)
+[2025-12-12 16:36:14]  - debug_test_image_saved.jpg (128677 bytes)
+[2025-12-12 16:36:14]  - debug_video_frame.jpg (120528 bytes)
+[2025-12-12 16:36:14]  - debug_webcam_frame.jpg (65702 bytes)
+[2025-12-12 16:36:14]  - laneDetection.py (4060 bytes)
+[2025-12-12 16:36:14]  - run.py (3222 bytes)
+[2025-12-12 16:36:14]  - test2.mp4 (33466715 bytes)
+[2025-12-12 16:36:14]  - test_image.jpg (776021 bytes)
+[2025-12-12 16:36:14]  - test_opencv.py (633 bytes)
+[2025-12-12 16:36:14]  - utils.py (0 bytes)
+[2025-12-12 16:36:14]  - __pycache__ (0 bytes)
+[2025-12-12 16:36:14] cv2 version: 4.12.0
+[2025-12-12 16:36:14] Checking for image: test_image.jpg
+[2025-12-12 16:36:15] imread returned None? False
+[2025-12-12 16:36:15] Image shape: 1279x704
+[2025-12-12 16:36:15] Saved debug_test_image_saved.jpg: True
+[2025-12-12 16:36:15] Checking for video: test2.mp4
+[2025-12-12 16:36:15] Found test2.mp4 — will attempt to open and read first frame.
+[2025-12-12 16:36:15] Video read ret: True
+[2025-12-12 16:36:15] Video frame shape: (720, 1280, 3)
+[2025-12-12 16:36:15] Saved debug_video_frame.jpg
+[2025-12-12 16:36:15] Testing webcam index 0...
+[2025-12-12 16:36:15] Webcam read ret: True
+[2025-12-12 16:36:15] Webcam frame shape: (480, 640, 3)
+[2025-12-12 16:36:15] Saved debug_webcam_frame.jpg: True
+[2025-12-12 16:36:15] Displayed cv2 window for webcam frame. (If invisible, GUI may be blocked.)
+[2025-12-12 16:36:15] Waiting 1000 ms for keypress...
+[2025-12-12 16:36:16] Closed cv2 windows.
+[2025-12-12 16:36:17] DEBUG: script finished normally.
