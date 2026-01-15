@@ -3,21 +3,21 @@
 A computer vision–based Lane Detection System implemented using Python and OpenCV.
 This project detects lane markings from videos or live webcam feed, applies edge detection and region masking, and overlays detected lanes on the original frames.
 
--->Features
-    1.Supports video files and webcam input
-    2.Edge detection using Canny
-    3.Region of Interest (ROI) masking
-    4.Lane overlay on original frames
-    5.Output video generation
+#Features
+- Supports video files and webcam input
+- Edge detection using Canny
+- Region of Interest (ROI) masking
+- Lane overlay on original frames
+- Output video generation
 
--->Tech Stack
-    Python
-    OpenCV
-    NumPy
-    Matplotlib
-    imutils
+#Tech Stack
+- Python
+- OpenCV
+- NumPy
+- Matplotlib
+- imutils
 
--->Lane-Detection-System-Using-OpenCV/
+#Lane-Detection-System-Using-OpenCV/
     run.py                # Main entry point
     lane_detector.py      # Lane detection logic
     utils.py              # Helper functions
@@ -26,7 +26,7 @@ This project detects lane markings from videos or live webcam feed, applies edge
     requirements.txt
     README.md
 
--->How to Run the Project
+#How to Run the Project
 1. Clone the Repository
 git clone https://github.com/Vaishnavinichal/Lane-Detection-System-Using-OpenCV.git
 cd Lane-Detection-System-Using-OpenCV
@@ -48,6 +48,6 @@ python run.py --display --debug
 
 
 #Notes
-Use --display to enable visualization
-Without --display, the project runs in headless mode
-Press q to exit when display is enabled
+- Use --display to enable visualization
+- Without --display, the project runs in headless mode
+- Press q to exit when display is enabled
