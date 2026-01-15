@@ -4,8 +4,8 @@ A computer vision–based Lane Detection System implemented using Python and Ope
 This project detects lane markings from videos or live webcam feed, applies edge detection and region masking, and overlays detected lanes on the original frames.
 
 -->Features
-    1.Supports video files and webcam input
-    2.Edge detection using Canny
+    - Supports video files and webcam input
+    - Edge detection using Canny
     3.Region of Interest (ROI) masking
     4.Lane overlay on original frames
     5.Output video generation
