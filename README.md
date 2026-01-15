@@ -18,13 +18,13 @@ This project detects lane markings from videos or live webcam feed, applies edge
 - imutils
 
 #Lane-Detection-System-Using-OpenCV/
-    run.py                # Main entry point
-    lane_detector.py      # Lane detection logic
-    utils.py              # Helper functions
-    test2.mp4             # Sample input video
-    lane_out.avi          # Output video (generated)
-    requirements.txt
-    README.md
+- run.py                ## Main entry point
+- lane_detector.py      ## Lane detection logic
+- utils.py              ## Helper functions
+- test2.mp4             ## Sample input video
+- lane_out.avi          ## Output video (generated)
+- requirements.txt
+- README.md
 
 #How to Run the Project
 1. Clone the Repository
